@@ -1,0 +1,3 @@
+esse arquivo mostra os comandos secundários do git
+
+foda-se
