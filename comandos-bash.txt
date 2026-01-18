@@ -1,0 +1,5 @@
+ls > list arquivos
+cd > move entre diretórios
+pwd > mostra o diretório de trabalho
+cat > exibe conteúdo do arquivo
+rm > remove arquivo do diretório
