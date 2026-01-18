@@ -3,3 +3,4 @@ cd > move entre diretórios
 pwd > mostra o diretório de trabalho
 cat > exibe conteúdo do arquivo
 rm > remove arquivo do diretório
+rm - rf > remove de maneira forçada todos os diretiorios
